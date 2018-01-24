@@ -20,7 +20,7 @@ This example contains everything you need.
 
 ```js
 import { h, app } from 'hyperapp'
-import { Router } from 'hyperapp-starterkit'
+import { Router } from '@whaaaley/hyperapp-router'
 
 const state = {
   Router: {}
